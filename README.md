@@ -1,4 +1,14 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arda-can-aras) 
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+###
+<p align="center">
+  <a href="https://linkedin.com/in/arda-can-aras">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 Hello! I'm Arda, a passionate developer who loves creating software. I thrive in the world of coding and enjoy building innovative solutions that make a positive impact.
 
 ## 🔨 Stack 
@@ -26,9 +36,19 @@ Hello! I'm Arda, a passionate developer who loves creating software. I thrive in
 ### Other
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ardaaras99&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ardaaras99&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ardaaras99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ardaaras99&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+</p>
+
+
 
