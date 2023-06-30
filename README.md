@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Graph Neural Networks<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+Hello! I'm Arda, a passionate developer who loves creating software. I thrive in the world of coding and enjoy building innovative solutions that make a positive impact.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arda-can-aras) 
@@ -29,9 +28,6 @@
 
 ### Other
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ardaaras99&limit=5&theme=dark&combine_all_yearly_contributions=true)
