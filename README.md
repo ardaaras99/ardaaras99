@@ -1,8 +1,6 @@
 # 💫 About Me:
-Hello! I'm Arda, a passionate developer who loves creating software. I thrive in the world of coding and enjoy building innovative solutions that make a positive impact.
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arda-can-aras) 
+Hello! I'm Arda, a passionate developer who loves creating software. I thrive in the world of coding and enjoy building innovative solutions that make a positive impact.
 
 ## 🔨 Stack 
 
