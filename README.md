@@ -29,26 +29,12 @@ Hello! I'm Arda, a passionate developer who loves creating software. I thrive in
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
 ### Other
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ardaaras99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<h3 align="left">🔥   My Stats :</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ardaaras99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ardaaras99&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
-</p>
 
 
 
